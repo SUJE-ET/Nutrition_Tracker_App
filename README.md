@@ -22,7 +22,3 @@ A simple yet powerful web application built using **Python** and **Flask** to he
 * **Templating**: Jinja2
 
 ---
-
-## 📸 Screenshots
-
-> *You can add screenshots of your app here after uploading the images in the repo.*
